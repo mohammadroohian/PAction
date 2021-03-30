@@ -845,8 +845,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 69.5, y: -101.6}
-  m_SizeDelta: {x: -337.53558, y: -390.27728}
+  m_AnchoredPosition: {x: 96, y: -99}
+  m_SizeDelta: {x: -127.54791, y: -390.27728}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &331699460
 MonoBehaviour:
@@ -880,9 +880,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Press Jump Button
-
-    (space)'
+  m_Text: Wait for Press Key
 --- !u!222 &331699461
 CanvasRenderer:
   m_ObjectHideFlags: 0

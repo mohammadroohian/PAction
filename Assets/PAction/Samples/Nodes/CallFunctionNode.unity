@@ -3331,7 +3331,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Call F2
+  m_Text: F2 Called
 --- !u!222 &845556142
 CanvasRenderer:
   m_ObjectHideFlags: 0
