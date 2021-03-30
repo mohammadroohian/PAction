@@ -1040,7 +1040,7 @@ GameObject:
   - component: {fileID: 464066175}
   - component: {fileID: 464066176}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1075,7 +1075,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &536820289
 GameObject:
   m_ObjectHideFlags: 0
@@ -2080,7 +2080,7 @@ GameObject:
   - component: {fileID: 1179780442}
   - component: {fileID: 1179780443}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2115,7 +2115,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &1233231175
 GameObject:
   m_ObjectHideFlags: 0
@@ -2347,7 +2347,7 @@ GameObject:
   - component: {fileID: 1287991880}
   - component: {fileID: 1287991881}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2382,7 +2382,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &1334541966
 GameObject:
   m_ObjectHideFlags: 0
@@ -2554,7 +2554,7 @@ GameObject:
   - component: {fileID: 1342407221}
   - component: {fileID: 1342407222}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2589,7 +2589,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &1441293520
 GameObject:
   m_ObjectHideFlags: 0
@@ -3142,17 +3142,17 @@ PrefabInstance:
     - target: {fileID: 7913261004820408821, guid: da738686b67f8ab4b9097e25cbd11ce1,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 172
+      value: 163
       objectReference: {fileID: 0}
     - target: {fileID: 7913261004820408821, guid: da738686b67f8ab4b9097e25cbd11ce1,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 30
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 7913261004820408821, guid: da738686b67f8ab4b9097e25cbd11ce1,
         type: 3}
       propertyPath: m_textInfo.wordCount
-      value: 31
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 7913261004820408821, guid: da738686b67f8ab4b9097e25cbd11ce1,
         type: 3}
@@ -3168,8 +3168,8 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: Click the 'Call Function' button to execute the 'F1' function. In this
-        case, for example, Kalberk is placed on the 'C' key, this function can be
-        called by any other events.
+        example, callback is placed on the 'C' key, this function can be called by
+        any other events.
       objectReference: {fileID: 0}
     - target: {fileID: 7913261005228041843, guid: da738686b67f8ab4b9097e25cbd11ce1,
         type: 3}
@@ -3506,7 +3506,7 @@ GameObject:
   - component: {fileID: 1792612824}
   - component: {fileID: 1792612825}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3541,7 +3541,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &1841173780
 GameObject:
   m_ObjectHideFlags: 0
@@ -4112,7 +4112,7 @@ GameObject:
   - component: {fileID: 2087423830}
   - component: {fileID: 2087423831}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4147,7 +4147,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &2119521490
 GameObject:
   m_ObjectHideFlags: 0

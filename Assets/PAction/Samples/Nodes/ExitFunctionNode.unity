@@ -1036,7 +1036,7 @@ GameObject:
   - component: {fileID: 464066175}
   - component: {fileID: 464066176}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1071,7 +1071,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &536820289
 GameObject:
   m_ObjectHideFlags: 0
@@ -1083,7 +1083,7 @@ GameObject:
   - component: {fileID: 536820290}
   - component: {fileID: 536820291}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1118,7 +1118,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &562478133
 GameObject:
   m_ObjectHideFlags: 0
@@ -1190,7 +1190,7 @@ GameObject:
   - component: {fileID: 566270201}
   - component: {fileID: 566270202}
   m_Layer: 0
-  m_Name: '>  [ Image (4) ] . CU_ColorFader . StartFade()'
+  m_Name: '>  [ Text ] . GameObject . SetActive()'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2137,7 +2137,7 @@ GameObject:
   - component: {fileID: 1179780442}
   - component: {fileID: 1179780443}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2172,7 +2172,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &1233231175
 GameObject:
   m_ObjectHideFlags: 0
@@ -2404,7 +2404,7 @@ GameObject:
   - component: {fileID: 1287991880}
   - component: {fileID: 1287991881}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2439,7 +2439,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &1334541966
 GameObject:
   m_ObjectHideFlags: 0
@@ -2611,7 +2611,7 @@ GameObject:
   - component: {fileID: 1342407221}
   - component: {fileID: 1342407222}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2646,7 +2646,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &1454173163
 GameObject:
   m_ObjectHideFlags: 0
@@ -3441,7 +3441,7 @@ GameObject:
   - component: {fileID: 1792612824}
   - component: {fileID: 1792612825}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3476,7 +3476,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &1841173780
 GameObject:
   m_ObjectHideFlags: 0
@@ -4125,7 +4125,7 @@ GameObject:
   - component: {fileID: 2087423830}
   - component: {fileID: 2087423831}
   m_Layer: 0
-  m_Name: WaitForSeconds(1)
+  m_Name: WaitForSeconds(0.5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4160,7 +4160,7 @@ MonoBehaviour:
   m_enabledNode: 1
   m_isBreakpoint: 0
   m_comment: 
-  m_waitTime: 1
+  m_waitTime: 0.5
 --- !u!1 &2093059611
 GameObject:
   m_ObjectHideFlags: 0
