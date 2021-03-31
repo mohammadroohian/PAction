@@ -45,6 +45,12 @@ The ExecuteNode component is used to execute a normal command.
 
 ### CallFunctionNode
 
+![image](https://user-images.githubusercontent.com/80090999/113096962-68792f00-920b-11eb-93a7-752c094fafea.png)
+
+The CallFunctionNode component is used to call a function from within another function.
+
+![CallFunctionNode](https://user-images.githubusercontent.com/80090999/113097260-d45b9780-920b-11eb-90d7-4fb54cafaf16.gif)
+
 ### ExitFunctionNode
 
 ### LoopNode
