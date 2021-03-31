@@ -53,7 +53,20 @@ The CallFunctionNode component is used to call a function from within another fu
 
 ### ExitFunctionNode
 
+![image](https://user-images.githubusercontent.com/80090999/113097340-f7864700-920b-11eb-9096-3bddeb3b3ed2.png)
+
+The ExitFunctionNode component is used to exit the current running function.
+
+![ExitFunctionNode](https://user-images.githubusercontent.com/80090999/113097485-34ead480-920c-11eb-93cc-b15bce2b8458.gif)
+
 ### LoopNode
+
+![image](https://user-images.githubusercontent.com/80090999/113097575-606dbf00-920c-11eb-8497-106a4112d175.png)
+
+The LoopNode component is used to place a number of commands inside a loop and repeat them.
+The loop can be infinite as well.
+
+![LoopNode](https://user-images.githubusercontent.com/80090999/113097763-bcd0de80-920c-11eb-8643-61516a010811.gif)
 
 ### BreakNode
 
