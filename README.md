@@ -3,7 +3,7 @@ Semi-visual scripting system in unity.
 ____________
 A semi-visual scripting system to execute commands in sequence and flow control using functions, conditional statements, loops, etc.
 
-### Why should you use PashmakCore?
+### Why should you use PAction?
 
 When you want to implement simple mechanics without coding, for part of casual games, hyper casual or even part of larger projects!
 No coding! Do it fast and clean!
