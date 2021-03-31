@@ -70,10 +70,41 @@ The loop can be infinite as well.
 
 ### BreakNode
 
+![image](https://user-images.githubusercontent.com/80090999/113097832-df62f780-920c-11eb-95cd-5515e591934b.png)
+
+The BreakNode component is used to exit the current loop.
+In nested loops, the innermost loop will break.
+
+![BreakNode](https://user-images.githubusercontent.com/80090999/113097970-10dbc300-920d-11eb-9812-9c5d74f35589.gif)
+
 ### WaitForButtonNode
+
+![image](https://user-images.githubusercontent.com/80090999/113098172-64e6a780-920d-11eb-9527-04a64d9151e4.png)
+
+The WaitForButtonNode component is used to delay the execution of commands until a specific button is tapped.
+
+![WaitForButtonNode](https://user-images.githubusercontent.com/80090999/113098132-526c6e00-920d-11eb-8b14-725ff88cf5cb.gif)
 
 ### WaitForKeyNode
 
+![image](https://user-images.githubusercontent.com/80090999/113098274-85aefd00-920d-11eb-8b0a-0d3d17a6bdf5.png)
+
+The WaitForKeyNode component is used to delay the execution of commands until a specific key is pressed.
+
+![WaitForKeyNode](https://user-images.githubusercontent.com/80090999/113098473-bee76d00-920d-11eb-92bf-f406f37d1ed5.gif)
+
 ### WaitForSecondsNode
 
+![image](https://user-images.githubusercontent.com/80090999/113098562-dfafc280-920d-11eb-8c49-47fb38aa15e3.png)
+
+The WaitForSecondsNode component is used to delay the execution of the command.
+
+![WaitForSecondsNode](https://user-images.githubusercontent.com/80090999/113098735-1dace680-920e-11eb-80a1-de814092580a.gif)
+
 ### WaitForCallbackNode
+
+![image](https://user-images.githubusercontent.com/80090999/113098869-4c2ac180-920e-11eb-83ac-778451276012.png)
+
+The WaitForCallbackNode component is used to delay the execution of commands until the callback is called.
+
+![WaitForCallbackNode](https://user-images.githubusercontent.com/80090999/113099225-dffc8d80-920e-11eb-9da6-cbc4608bbfb4.gif)
