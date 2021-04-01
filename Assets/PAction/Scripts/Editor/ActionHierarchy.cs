@@ -73,13 +73,15 @@ namespace Pashmak.Action
             else if (actionNode is FunctionNode)
                 Compute_FunctionNode(actionNode, newRect, isActive, haveWarning, haveError);
             else if (actionNode is CallFunctionNode)
-                Compute_RunFunctionNode(actionNode, newRect, isActive, haveWarning, haveError);
+                Compute_CallFunctionNode(actionNode, newRect, isActive, haveWarning, haveError);
             else if (actionNode is WaitForCollisionNode)
                 Compute_WaitForCollisionNode(actionNode, newRect, isActive, haveWarning, haveError);
             else if (actionNode is WaitForKeyNode)
                 Compute_WaitForKeyNode(actionNode, newRect, isActive, haveWarning, haveError);
             else if (actionNode is WaitForButtonNode)
                 Compute_WaitForButtonNode(actionNode, newRect, isActive, haveWarning, haveError);
+            else if (actionNode is WaitForCallback)
+                Compute_WaitForCallbackNode(actionNode, newRect, isActive, haveWarning, haveError);
         }
 
         static void Compute_LoopNode(ActionNode actionNode, Rect placeRect, bool isActive, bool haveWarning, bool haveError)
@@ -360,8 +362,25 @@ namespace Pashmak.Action
                                         COLOR_SpacialNode);
             #endregion
         }
+        static void Compute_WaitForCallbackNode(ActionNode actionNode, Rect placeRect, bool isActive, bool haveWarning, bool haveError)
+        {
+            string typeName = "Wait For Callback...";
+            int tmpCommentIndex = 140;
+            string detailsText = "";
 
-        static void Compute_RunFunctionNode(ActionNode actionNode, Rect placeRect, bool isActive, bool haveWarning, bool haveError)
+            #region show stuff
+            ShowInformations_DefultStyle(actionNode,
+                                        isActive,
+                                        haveWarning,
+                                        haveError,
+                                        typeName,
+                                        detailsText,
+                                        placeRect,
+                                        tmpCommentIndex,
+                                        COLOR_SpacialNode);
+            #endregion
+        }
+        static void Compute_CallFunctionNode(ActionNode actionNode, Rect placeRect, bool isActive, bool haveWarning, bool haveError)
         {
             CallFunctionNode runFunctionNode = (CallFunctionNode)actionNode;
             string typeName = "call ";
