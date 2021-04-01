@@ -364,7 +364,7 @@ namespace Pashmak.Action
         }
         static void Compute_WaitForCallbackNode(ActionNode actionNode, Rect placeRect, bool isActive, bool haveWarning, bool haveError)
         {
-            string typeName = "Wait For Callback...";
+            string typeName = "WaitForCallback(...)";
             int tmpCommentIndex = 140;
             string detailsText = "";
 
